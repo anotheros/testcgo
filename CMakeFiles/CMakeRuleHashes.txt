@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-752eafae3b2eca853cb1e1b42c38e43b go/CMakeFiles/shim_go
-7e45825f8926d26966d668378e76f5e3 go/module.so

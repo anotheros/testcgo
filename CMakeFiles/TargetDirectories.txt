@@ -1,6 +1,0 @@
-/Users/laozhang/Documents/dev/git/testcgo/CMakeFiles/rebuild_cache.dir
-/Users/laozhang/Documents/dev/git/testcgo/CMakeFiles/edit_cache.dir
-/Users/laozhang/Documents/dev/git/testcgo/CMakeFiles/test.dir
-/Users/laozhang/Documents/dev/git/testcgo/go/CMakeFiles/rebuild_cache.dir
-/Users/laozhang/Documents/dev/git/testcgo/go/CMakeFiles/edit_cache.dir
-/Users/laozhang/Documents/dev/git/testcgo/go/CMakeFiles/shim_go.dir
