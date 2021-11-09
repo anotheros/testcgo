@@ -1,0 +1,10 @@
+/go/CMakeFiles/
+*.cmake
+/go/CMakeCache.txt
+/go/Makefile
+/Makefile
+/CMakeCache.txt
+/go/module.h
+/go/module.so
+/test
+/CMakeFiles/
